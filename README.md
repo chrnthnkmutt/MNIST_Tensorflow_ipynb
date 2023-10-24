@@ -15,7 +15,7 @@ This repository contains a Python implementation of a handwritten digit recognit
 
 Before you begin, ensure you have met the following requirements:
 
-- Python 3.x
+- Python 3.9 or later
 - TensorFlow
 - Keras
 - Matplotlib (for visualizing the data and training progress)

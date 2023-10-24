@@ -2,6 +2,8 @@
 
 *Created By Charunthon Limseelo, advised by Arnon Monkong from SPECTRE Thailand*
 
+![thumbnail](./Blog%20Banner.png)
+
 This repository contains a Python implementation of a handwritten digit recognition system using the MNIST dataset and TensorFlow's Keras API. The MNIST dataset is a widely used dataset in the field of machine learning and computer vision, consisting of 28x28 pixel grayscale images of handwritten digits (0 to 9). The goal of this project is to build a deep learning model that can accurately recognize and classify these handwritten digits.
 
 ## Features
